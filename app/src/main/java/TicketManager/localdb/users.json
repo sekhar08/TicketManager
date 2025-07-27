@@ -5,7 +5,7 @@
     "hashed_password": "$2a$10$MqonEcizso4Re9iFEMajHOIHCUd5O3Q.XZX779C50ZnC/Hb6mirwW",
     "tickets_booked": [
       {
-        "ticket_id": "your_ticket_id",
+        "ticket_id": "ICUCIC123",
         "user_id": "abcdefgh",
         "source": "Bangalore",
         "destination": "Delhi",
